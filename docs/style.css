@@ -1,3 +1,12 @@
+@font-face {
+    font-family: roboto;
+    src: url(/assets/Roboto-Regular.ttf);
+}
+
+html {
+  font-family: roboto;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
